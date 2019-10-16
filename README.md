@@ -1,0 +1,2 @@
+# batmud
+batmud related scripts
